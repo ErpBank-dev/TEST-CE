@@ -2,3 +2,8 @@
 	path = ErpBank-dev/TEST-CE
 	url = git@github.com:ErpBank-dev/TEST-CE.git
 	branch = TEST-13-CE-9122
+
+[submodule "ErpBank-dev/TEST-CE"]
+	path = ErpBank-dev/TEST-CE
+	url = git@github.com:ErpBank-dev/TEST-CE.git
+	branch = TEST-13-CE-9122
